@@ -1,0 +1,17 @@
+[Event "Vienna Game"]
+[Opening "Vienna Game"]
+[ECO "C25"]
+[Side "white"]
+[Tags "e4,open,gambit"]
+[Difficulty "2"]
+
+1. e4 e5 2. Nc3 { The Vienna: the knight supports a later f4 push while keeping e4 protected. }
+2... Nf6 { [%name Vienna Gambit, 3...d5] }
+( 2... Bc5 { [%name 2...Bc5] Black develops actively and eyes f2. }
+  3. Nf3 { Hitting e5 and preparing to occupy the centre with d4. }
+  3... d6 4. d4 exd4 5. Nxd4 Nf6 6. Be2 { Simple development: castle quickly and use the extra central space. }
+  6... O-O 7. O-O )
+3. f4 { The Vienna Gambit: White attacks e5 to open the f-file and gain the centre. }
+3... d5 { The principled reply: strike in the centre before White's pawns roll on. }
+4. fxe5 Nxe4 5. Nf3 Be7 6. d4 O-O 7. Bd3 { Challenging the e4 knight; White's e5 pawn cramps Black. }
+7... f5 8. exf6 Bxf6 9. O-O { The f-file is open for White's rook and Black's centre is under pressure. } *

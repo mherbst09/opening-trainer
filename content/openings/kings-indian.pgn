@@ -1,0 +1,22 @@
+[Event "King's Indian Defense"]
+[Opening "King's Indian Defense"]
+[ECO "E60"]
+[Side "black"]
+[Tags "d4,indian,sharp,fianchetto"]
+[Difficulty "3"]
+
+1. d4 Nf6 2. c4 g6 { The King's Indian: Black lets White build a centre and strikes back later with ...e5 or ...c5. }
+3. Nc3
+( 3. Nf3 { [%name Fianchetto Variation] }
+  3... Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nbd7 7. Nc3 e5 8. e4 c6 { Black keeps a flexible centre and prepares ...Qb6 or ...a5. }
+  9. h3 )
+3... Bg7 4. e4 d6 5. Nf3 { [%name Classical, Mar del Plata] }
+( 5. f3 { [%name Sämisch] White secures e4 and prepares Be3, Qd2 and a kingside attack. }
+  5... O-O 6. Be3 e5 7. d5 Nh5 { The knight eyes f4 and prepares ...f5. }
+  8. Qd2 f5 { Black fights for the light squares on the kingside. } )
+( 5. f4 { [%name Four Pawns Attack] The most ambitious setup: four pawns in the centre. }
+  5... O-O 6. Nf3 c5 { Hitting the centre before it becomes overwhelming. }
+  7. d5 e6 8. Be2 exd5 9. cxd5 Bg4 10. O-O Nbd7 { A Benoni structure; Black aims at e5 and the queenside majority. } )
+5... O-O 6. Be2 e5 { The thematic central claim. }
+7. O-O Nc6 8. d5 Ne7 { The knight heads to the kingside to support ...f5. }
+9. Ne1 Nd7 10. Nd3 f5 11. Bd2 Nf6 12. f3 f4 { The Mar del Plata race: Black storms the kingside, White breaks with c5 on the queenside. } *

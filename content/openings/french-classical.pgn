@@ -1,0 +1,17 @@
+[Event "French Classical"]
+[Opening "French Defense: Classical Variation"]
+[ECO "C11"]
+[Side "black"]
+[Tags "e4,french"]
+[Difficulty "2"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 { The Classical French: developing the knight and attacking e4 again. }
+4. e5 { [%name Steinitz, 5.f4] }
+( 4. Bg5 { Pinning the knight to keep the tension. }
+  4... Be7 { [%name Classical, 4.Bg5 Be7] Breaking the pin with a developing move. }
+  ( 4... dxe4 { [%name Burn, 4...dxe4] Black releases the tension and gets a solid, compact position. }
+    5. Nxe4 Be7 6. Bxf6 Bxf6 7. Nf3 Nd7 { Black will play ...O-O and ...c5 or ...e5 to free the game. } )
+  5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 O-O 8. Nf3 c5 { The standard counter: attack d4 with ...c5 and the queen on e7. } )
+4... Nfd7 5. f4 c5 { The thematic strike at d4. }
+6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4 Bc5 { Trading off White's strong centralised knight. }
+9. Qd2 O-O 10. O-O-O a6 { Opposite castling: Black's attack comes with ...b5 down the queenside. } *

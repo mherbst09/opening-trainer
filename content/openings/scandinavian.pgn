@@ -1,0 +1,16 @@
+[Event "Scandinavian Defense"]
+[Opening "Scandinavian Defense"]
+[ECO "B01"]
+[Side "black"]
+[Tags "e4,solid"]
+[Difficulty "1"]
+
+1. e4 d5 { The Scandinavian: Black challenges e4 immediately. }
+2. exd5 Qxd5 { [%name 3...Qa5 Main Line] }
+( 2... Nf6 { [%name Modern, 2...Nf6] Black recaptures with the knight later and avoids early queen moves. }
+  3. d4 Nxd5 4. Nf3 g6 5. c4 Nb6 6. Nc3 Bg7 { Black fianchettoes and pressures White's big centre. }
+  7. h3 O-O 8. Be3 )
+3. Nc3 Qa5 { The queen steps aside with tempo-free development to follow; a5 is safe from easy attacks. }
+4. d4 Nf6 5. Nf3 c6 { Giving the queen a retreat square on c7 and supporting ...Bf5. }
+6. Bc4 Bf5 7. Bd2 e6 8. Qe2 Bb4 { Pinning the knight; White's discovered tricks on the queen are neutralised. }
+9. O-O-O Nbd7 10. a3 { A typical Caro-Kann-like structure: Black is solid and well developed. } *

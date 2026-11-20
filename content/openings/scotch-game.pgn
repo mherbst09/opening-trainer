@@ -1,0 +1,18 @@
+[Event "Scotch Game"]
+[Opening "Scotch Game"]
+[ECO "C45"]
+[Side "white"]
+[Tags "e4,open"]
+[Difficulty "2"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 { The Scotch: White opens the centre at once instead of maneuvering. }
+3... exd4 4. Nxd4 { White has a central knight and free development; Black must hit back quickly. }
+4... Nf6 { [%name Mieses Variation] }
+( 4... Bc5 { [%name Classical, 5.Nxc6] Black develops with tempo against the d4 knight. }
+  5. Nxc6 Qf6 { Black threatens mate on f2 while recapturing. }
+  6. Qd2 dxc6 7. Nc3 { White guards against ...Qxf2 tricks and develops quickly. }
+  7... Be6 8. Na4 { The knight chases the strong c5 bishop. }
+  8... Rd8 9. Bd3 )
+5. Nxc6 bxc6 6. e5 { The key move: the e-pawn drives the knight from f6 and gains space. }
+6... Qe7 7. Qe2 Nd5 8. c4 Ba6 9. b3 { Holding c4 so the d5 knight has to retreat. }
+9... g6 10. f4 { Supporting the e5 pawn; Black will try to undermine it with ...f6 or ...d6. } *

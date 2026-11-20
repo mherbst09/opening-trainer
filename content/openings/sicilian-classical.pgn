@@ -1,0 +1,17 @@
+[Event "Sicilian Classical"]
+[Opening "Sicilian Defense: Classical Variation"]
+[ECO "B56"]
+[Side "black"]
+[Tags "e4,sicilian"]
+[Difficulty "2"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 { The Classical: natural development, keeping options of ...e6, ...e5 or ...g6. }
+6. Bg5 { [%name Richter-Rauzer] }
+( 6. Bc4 { [%name Sozin / Velimirovic] }
+  6... e6 { Blunting the bishop's diagonal toward f7. }
+  7. Bb3 Be7 8. Be3 O-O 9. Qe2 a6 10. O-O-O Qc7 { Black prepares ...Na5 and ...b5 to trade off the dangerous bishop. } )
+( 6. Be2 { [%name Boleslavsky, 6.Be2] }
+  6... e5 { Gaining space; the d5 square is the key battleground. }
+  7. Nb3 Be7 8. O-O O-O 9. Be3 Be6 )
+6... e6 7. Qd2 a6 8. O-O-O Bd7 9. f4 b5 { Black starts queenside play at once against the castled king. }
+10. Bxf6 gxf6 { Doubled pawns, but Black gains the bishop pair and central control with ...f6 covering e5. } *

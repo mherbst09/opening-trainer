@@ -1,0 +1,18 @@
+[Event "Queen's Indian Defense"]
+[Opening "Queen's Indian Defense"]
+[ECO "E12"]
+[Side "black"]
+[Tags "d4,indian,solid,fianchetto"]
+[Difficulty "2"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 { The Queen's Indian: the bishop on b7 fights for e4 and the long diagonal. }
+4. g3
+( 4. a3 { [%name Petrosian, 4.a3] Preventing ...Bb4 before playing Nc3. }
+  4... Bb7 5. Nc3 d5 6. cxd5 Nxd5 7. Qc2 Nxc3 8. bxc3 Be7 9. e4 O-O 10. Bd3 c5 { Black pressures the centre with ...c5 and ...Nc6 or ...Qc8. } )
+4... Ba6 { [%name Main line, 4...Ba6] Attacking c4 and forcing White to spend a tempo. }
+( 4... Bb7 { [%name 4...Bb7] The classical setup. }
+  5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 { Trading pieces to relieve the pressure and control e4. }
+  8. Qc2 Nxc3 9. Qxc3 )
+5. b3 Bb4+ { The check disrupts White's development and draws the bishop to d2. }
+6. Bd2 Be7 7. Bg2 c6 { Preparing ...d5 with a solid centre. }
+8. Bc3 d5 9. Ne5 Nfd7 10. Nxd7 Nxd7 11. Nd2 O-O 12. O-O { A balanced middlegame; Black will play ...Rc8 and ...c5 or ...b5. } *

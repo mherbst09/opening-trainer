@@ -1,0 +1,19 @@
+[Event "Nimzo-Indian Defense"]
+[Opening "Nimzo-Indian Defense"]
+[ECO "E20"]
+[Side "black"]
+[Tags "d4,indian,positional"]
+[Difficulty "2"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 { The Nimzo-Indian: the pin stops e4 and Black may double White's pawns with ...Bxc3. }
+4. e3 { [%name Rubinstein, 4.e3] }
+( 4. Qc2 { [%name Classical, 4.Qc2] White avoids doubled pawns by recapturing with the queen. }
+  4... O-O 5. a3 Bxc3+ 6. Qxc3 b6 { Fighting for the light squares, especially e4. }
+  7. Bg5 Bb7 8. f3 h6 9. Bh4 d5 10. e3 )
+( 4. a3 { [%name Sämisch, 4.a3] White takes the bishop pair at the cost of doubled c-pawns. }
+  4... Bxc3+ 5. bxc3 c5 6. e3 Nc6 7. Bd3 O-O 8. Ne2 b6 { Black targets the weak c4 pawn with ...Ba6 and ...Na5. }
+  9. e4 Ne8 { Avoiding the annoying pin Bg5 and preparing ...f5. } )
+( 4. Nf3 { [%name 4.Nf3] }
+  4... c5 5. g3 cxd4 6. Nxd4 O-O 7. Bg2 d5 8. cxd5 Nxd5 { Black frees the position and fights the g2 bishop's pressure. } )
+4... O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 { All Black's pieces aim at the centre. }
+8. a3 Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 { The queen eyes e5 to stop White's central expansion with e4-e5. } *

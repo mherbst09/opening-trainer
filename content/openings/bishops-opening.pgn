@@ -1,0 +1,18 @@
+[Event "Bishop's Opening"]
+[Opening "Bishop's Opening"]
+[ECO "C24"]
+[Side "white"]
+[Tags "e4,open,quiet"]
+[Difficulty "1"]
+
+1. e4 e5 2. Bc4 { The bishop aims at f7 at once and keeps the f-pawn free for f4 later. }
+2... Nf6 3. d3 { A calm setup: e4 is protected and the game often turns into a slow Italian. }
+3... Bc5 { [%name 3...Bc5] }
+( 3... Nc6 { [%name 3...Nc6] }
+  4. Nf3 Be7 5. O-O O-O 6. Re1 { The rook supports e4 and prepares a later d4. }
+  6... d6 7. c3 { The pawn chain c3-d3-e4 gives the bishop a retreat and supports d4. } )
+( 3... d5 { [%name 3...d5] Black frees the position right away. }
+  4. exd5 Nxd5 5. Nf3 Nc6 6. O-O { Quick castling; the open e-file and the e5 pawn become targets. }
+  6... Be7 7. Re1 )
+4. Nf3 d6 5. c3 { Preparing d4 and a retreat square for the bishop. }
+5... O-O 6. O-O Bb6 7. Bb3 { Each side tucks its bishop away from pawn attacks before the middlegame plans start. } *

@@ -1,0 +1,20 @@
+[Event "English Opening"]
+[Opening "English Opening"]
+[ECO "A10"]
+[Side "white"]
+[Tags "flank,positional,fianchetto"]
+[Difficulty "2"]
+
+1. c4 { The English: White controls d5 from the side and often plays a reversed Sicilian. }
+1... e5 { [%name Reversed Sicilian, 1...e5] }
+( 1... c5 { [%name Symmetrical, 1...c5] }
+  2. Nf3 Nc6 3. Nc3 g6 4. g3 Bg7 5. Bg2 Nf6 6. O-O O-O 7. d4 { Opening the centre while Black copies White's setup. }
+  7... cxd4 8. Nxd4 )
+( 1... Nf6 { [%name Mikenas, 1...Nf6 2...e6] }
+  2. Nc3 e6 3. e4 { Grabbing the centre before Black plays ...d5. }
+  3... d5 4. e5 d4 5. exf6 dxc3 6. bxc3 Qxf6 7. d4 { White has a big pawn centre for the slightly damaged structure. } )
+2. Nc3 Nf6
+( 2... Nc6 { [%name Closed, Botvinnik setup] }
+  3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. e4 { The Botvinnik formation: a firm grip on d5 and a plan of Nge2, O-O and f4. } )
+3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 { A Sicilian Dragon with colours reversed and an extra tempo for White. }
+6. Bg2 Nb6 7. O-O Be7 8. d3 O-O 9. a3 { Preparing b4-b5 to gain queenside space and harass the c6 knight. } *

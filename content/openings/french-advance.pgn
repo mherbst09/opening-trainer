@@ -1,0 +1,19 @@
+[Event "French Advance"]
+[Opening "French Defense: Advance Variation"]
+[ECO "C02"]
+[Side "black"]
+[Tags "e4,french"]
+[Difficulty "2"]
+
+1. e4 e6 2. d4 d5 3. e5 { White grabs space; Black attacks the pawn chain from its base. }
+3... c5 { Hitting d4, the base of White's chain, right away. }
+4. c3 Nc6 5. Nf3 Qb6 { Black piles up on d4 and eyes b2. }
+6. a3 { [%name 6.a3] Preparing b4 to gain queenside space. }
+( 6. Be2 { [%name 6.Be2] }
+  6... cxd4 7. cxd4 Nh6 { The knight heads for f5 to pressure d4. }
+  8. Nc3 Nf5 9. Na4 Qa5+ 10. Bd2 Bb4 { Black trades the bad-ish bishop and keeps the pressure on White's centre. } )
+( 6. Bd3 { [%name Milner-Barry Gambit] White offers the d4 pawn for fast development. }
+  6... cxd4 7. cxd4 Bd7 { Avoiding ...Nxd4 immediately, which loses to Bb5+. }
+  8. O-O Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 { Taking b5 away from White's knight and bishop; Black keeps the extra pawn. } )
+6... c4 { Closing the queenside so White cannot play b4 freely. }
+7. Nbd2 Na5 8. Rb1 Bd7 { Black holds the b3 square and prepares ...Ne7-c6 or ...Bb5. } *

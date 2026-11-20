@@ -1,0 +1,21 @@
+[Event "Grünfeld Defense"]
+[Opening "Grünfeld Defense"]
+[ECO "D80"]
+[Side "black"]
+[Tags "d4,hypermodern,sharp,fianchetto"]
+[Difficulty "3"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 { The Grünfeld: Black lets White take the centre, then attacks it with pieces and ...c5. }
+4. cxd5 { [%name Exchange, 7.Bc4] }
+( 4. Nf3 Bg7 5. Qb3 { [%name Russian, Smyslov] Pressure on d5 forces Black to release the tension. }
+  5... dxc4 6. Qxc4 O-O 7. e4 Bg4 { Pressuring d4 by pinning the knight. }
+  8. Be3 Nfd7 9. Qb3 Nb6 { Black hits d4 with pieces; ...c5 or ...Nc6 follows. } )
+( 4. Bf4 { [%name 4.Bf4] }
+  4... Bg7 5. e3 c5 { Striking at d4 at once, as always in the Grünfeld. }
+  6. dxc5 Qa5 7. Rc1 dxc4 8. Bxc4 O-O 9. Nf3 Qxc5 10. Bb3 )
+4... Nxd5 5. e4 Nxc3 6. bxc3 Bg7 { The bishop pressures c3 and d4 down the long diagonal. }
+7. Bc4
+( 7. Nf3 { [%name Modern Exchange, 7.Nf3] }
+  7... c5 8. Rb1 O-O 9. Be2 cxd4 10. cxd4 Qa5+ 11. Bd2 Qxa2 12. O-O { White gives a pawn for central dominance and attacking chances. } )
+7... c5 8. Ne2 Nc6 9. Be3 O-O 10. O-O Bg4 11. f3 Na5 { Hitting the c4 bishop while the d4 pawn is under fire. }
+12. Bd3 *

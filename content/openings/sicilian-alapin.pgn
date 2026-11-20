@@ -1,0 +1,15 @@
+[Event "Sicilian vs Alapin"]
+[Opening "Sicilian Defense: Alapin Variation"]
+[ECO "B22"]
+[Side "black"]
+[Tags "e4,sicilian,anti-sicilian"]
+[Difficulty "2"]
+
+1. e4 c5 2. c3 { The Alapin: White prepares d4 to build a full pawn centre. }
+2... Nf6 { [%name 2...Nf6 main line] Attacking e4 before White can play d4. }
+( 2... d5 { [%name 2...d5] Black uses the fact that White's c3 takes the c3 square from the knight. }
+  3. exd5 Qxd5 { The queen is safe on d5 because Nc3 is not available. }
+  4. d4 Nf6 5. Nf3 e6 6. Be2 Be7 7. O-O O-O { Solid development; Black can later play ...cxd4 and target the isolated pawn. } )
+3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. cxd4 d6 { Black challenges the e5 pawn right away. }
+7. Bc4 Nb6 8. Bb5 dxe5 9. Nxe5 Bd7 { Trading pieces relieves Black and leaves White with an isolated d-pawn. }
+10. Nxd7 Qxd7 *

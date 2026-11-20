@@ -1,0 +1,15 @@
+[Event "Queen's Gambit Declined"]
+[Opening "Queen's Gambit Declined"]
+[ECO "D30"]
+[Side "white"]
+[Tags "d4,queens-gambit,classical,positional"]
+[Difficulty "2"]
+
+1. d4 d5 2. c4 e6 { Black holds d5 solidly; the light-squared bishop is the long-term problem. }
+3. Nc3 Nf6 4. Bg5 { Pinning the knight increases the pressure on d5. }
+( 4. cxd5 { [%name Exchange Variation] Fixing the pawn structure early. }
+  4... exd5 5. Bg5 c6 6. Qc2 Be7 7. e3 Nbd7 8. Bd3 O-O 9. Nge2 Re8 10. O-O { The Carlsbad structure: White often plans a minority attack with b4-b5. } )
+4... Be7 5. e3 O-O 6. Nf3 h6 7. Bh4 b6 { [%name Tartakower] Black prepares ...Bb7 to solve the bishop problem. }
+( 7... Ne4 { [%name Lasker Defence] Trading pieces to free Black's cramped position. }
+  8. Bxe7 Qxe7 9. cxd5 Nxc3 10. bxc3 exd5 11. Qb3 Rd8 12. c4 { White uses the half-open b-file and pressure against d5. } )
+8. cxd5 Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. Rc1 Be6 { White pressures the c-file and Black's hanging pawns if ...c5 comes. } *

@@ -1,0 +1,17 @@
+[Event "Sicilian Dragon"]
+[Opening "Sicilian Defense: Dragon Variation"]
+[ECO "B70"]
+[Side "black"]
+[Tags "e4,sicilian,sharp"]
+[Difficulty "3"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 { The Dragon: the fianchettoed bishop bites down the long diagonal. }
+6. Be3 { [%name Yugoslav, 9.Bc4] }
+( 6. Be2 { [%name Classical, 6.Be2] }
+  6... Bg7 7. O-O O-O 8. Be3 Nc6 9. Nb3 Be6 10. f4 { A quieter line: Black plays for ...d5 or queenside pressure. } )
+6... Bg7 7. f3 O-O 8. Qd2 Nc6 9. Bc4 { The bishop eyes f7 and stops ...d5. }
+( 9. O-O-O { [%name Yugoslav, 9.O-O-O] }
+  9... d5 { The thematic central break that punishes White's slow play. }
+  10. exd5 Nxd5 11. Nxc6 bxc6 12. Bd4 { White trades off Black's strong bishop; Black gets the open b-file. } )
+9... Bd7 10. O-O-O Rc8 { Black uses the half-open c-file against White's king. }
+11. Bb3 Ne5 12. h4 h5 { The Soltis setup: ...h5 slows White's pawn storm on the kingside. } *

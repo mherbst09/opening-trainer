@@ -1,0 +1,28 @@
+[Event "Ruy Lopez"]
+[Opening "Ruy Lopez"]
+[ECO "C60"]
+[Side "white"]
+[Tags "e4,open,classical,positional"]
+[Difficulty "2"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 { The Spanish: the bishop attacks the knight that defends e5, building long-term pressure. }
+3... a6
+( 3... Nf6 { [%name Berlin Defence] The Berlin counter-attacks e4 and aims for a solid endgame. }
+  4. O-O { White castles first; taking on e4 opens the e-file for the rook. }
+  4... Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8. Qxd8+ Kxd8
+  9. Nc3 { The Berlin endgame: Black has the bishop pair, White a kingside pawn majority. }
+  9... Ke8 10. h3 { Taking g4 from Black's pieces before developing the queenside. } )
+4. Ba4 { Keeping the pin; the bishop stays on the a4-e8 diagonal. }
+( 4. Bxc6 { [%name Exchange Variation] White gives the bishop pair to damage Black's pawns. }
+  4... dxc6 5. O-O f6 6. d4 exd4 7. Nxd4 c5 8. Nb3 Qxd1 9. Rxd1
+  { White aims for an endgame where the healthy kingside majority can make a passed pawn. }
+  9... Bg4 10. f3 Be6 11. Nc3 Bd6 12. Be3 )
+4... Nf6 5. O-O { Castling first: e4 is indirectly protected because ...Nxe4 runs into Re1 or d4. }
+5... Be7 { [%name Closed, Chigorin] }
+( 5... Nxe4 { [%name Open Variation] Black grabs e4 and strikes back with ...d5. }
+  6. d4 { Opening the centre while Black's king is still in the middle. }
+  6... b5 7. Bb3 d5 8. dxe5 Be6 9. Nbd2 { White challenges the strong knight on e4. }
+  9... Nc5 10. c3 )
+6. Re1 b5 7. Bb3 d6 8. c3 { Preparing d4 and giving the bishop a retreat square on c2. }
+8... O-O 9. h3 { Stops ...Bg4, which would pin the knight and pressure d4. }
+9... Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 { The knight heads for f1 and g3, the classic Spanish manoeuvre. } *

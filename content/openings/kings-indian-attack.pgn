@@ -1,0 +1,16 @@
+[Event "King's Indian Attack"]
+[Opening "King's Indian Attack"]
+[ECO "A07"]
+[Side "white"]
+[Tags "flank,system,fianchetto"]
+[Difficulty "1"]
+
+1. e4 { The King's Indian Attack: a set-up with Nf3, g3, Bg2, O-O, d3 and Nbd2, then a kingside attack with e5. }
+( 1. Nf3 { [%name 1.Nf3 move order] }
+  1... d5 2. g3 Nf6 3. Bg2 c6 4. O-O Bg4 5. d3 Nbd7 6. Nbd2 e5 7. e4 { Reaching the e4 set-up even when Black occupies the centre. }
+  7... dxe4 8. dxe4 )
+1... e6 { [%name vs French, 1...e6] }
+( 1... c5 { [%name vs Sicilian, 1...c5 2...e6] }
+  2. Nf3 e6 3. d3 Nc6 4. g3 d5 5. Nbd2 Nf6 6. Bg2 Be7 7. O-O O-O 8. Re1 { The same plan as against the French: e5 and a kingside attack. } )
+2. d3 d5 3. Nd2 Nf6 4. Ngf3 c5 5. g3 Nc6 6. Bg2 Be7 7. O-O O-O 8. Re1 { Supporting a later e5. }
+8... b5 9. e5 Nd7 10. Nf1 { The knight heads for h2 or e3 and g4; White attacks the king while Black storms the queenside. } *

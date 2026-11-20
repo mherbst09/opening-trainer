@@ -1,0 +1,18 @@
+[Event "Petrov's Defense"]
+[Opening "Petrov's Defense"]
+[ECO "C42"]
+[Side "black"]
+[Tags "e4,open,solid"]
+[Difficulty "2"]
+
+1. e4 e5 2. Nf3 Nf6 { The Petrov: a symmetrical counter-attack on e4 instead of defending e5. }
+3. Nxe5 { [%name 3.Nxe5] }
+( 3. d4 { [%name Steinitz, 3.d4] }
+  3... Nxe4 4. Bd3 d5 5. Nxe5 Nd7 { Challenging the strong e5 knight. }
+  6. Nxd7 Bxd7 7. O-O Bd6 8. c4 c6 9. cxd5 cxd5 { Symmetrical and solid; Black has easy development. } )
+3... d6 { Important: 3...Nxe4? runs into Qe2, so Black first chases the knight away. }
+4. Nf3 Nxe4 5. d4 { [%name Classical, 5.d4] }
+( 5. Nc3 { [%name 5.Nc3] White trades knights and castles long. }
+  5... Nxc3 6. dxc3 Be7 7. Be3 O-O 8. Qd2 Nd7 9. O-O-O { Opposite castling; Black's play comes with ...c5 and ...b5 or ...Nf6. } )
+5... d5 6. Bd3 Nc6 7. O-O Be7 8. c4 Nb4 { Hitting the d3 bishop to reduce White's attacking potential. }
+9. Be2 O-O 10. Nc3 Bf5 11. a3 Nxc3 12. bxc3 Nc6 { Black has a sound, active position; the e4 outpost knight did its job. } *

@@ -1,0 +1,14 @@
+[Event "Catalan Opening"]
+[Opening "Catalan Opening"]
+[ECO "E01"]
+[Side "white"]
+[Tags "d4,positional,fianchetto"]
+[Difficulty "3"]
+
+1. d4 Nf6 2. c4 e6 3. g3 { The Catalan: a queen's gambit with the bishop on g2 aiming down the long diagonal. }
+3... d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 { [%name Open, 6...dxc4] Black takes the pawn and tries to keep it with ...a6 and ...b5. }
+( 6... Nbd7 { [%name Closed, 6...Nbd7] Black keeps the centre closed and develops solidly. }
+  7. Qc2 c6 8. Nbd2 b6 9. e4 { The central break: White fights for more space. }
+  9... Bb7 10. b3 )
+7. Qc2 { Regaining the pawn on c4 while developing. }
+7... a6 8. Qxc4 b5 9. Qc2 Bb7 10. Bd2 { The bishop heads for a5 or b4; the g2 bishop presses on the queenside. } *

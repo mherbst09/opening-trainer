@@ -1,0 +1,15 @@
+[Event "Caro-Kann Advance"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+[ECO "B12"]
+[Side "black"]
+[Tags "e4,caro-kann"]
+[Difficulty "2"]
+
+1. e4 c6 2. d4 d5 3. e5 { White gains space; Black develops the bishop outside the pawn chain first. }
+3... Bf5 { Unlike the French, the light-squared bishop gets out before ...e6. }
+4. Nf3 { [%name Short, 4.Nf3] Quiet development with Be2 and O-O. }
+( 4. Nc3 { [%name Bayonet, 4.Nc3] White prepares g4 to chase the bishop. }
+  4... e6 5. g4 Bg6 6. Nge2 c5 { Counter-attack in the centre is the answer to White's wing advance. }
+  7. h4 h5 8. Nf4 Bh7 { The bishop escapes; White's pawns may become targets later. } )
+4... e6 5. Be2 c5 { The typical break against d4. }
+6. Be3 Nd7 7. O-O Ne7 { The knight goes to c6 or f5 to add pressure on d4. } *

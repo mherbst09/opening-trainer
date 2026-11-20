@@ -1,0 +1,21 @@
+[Event "King's Gambit"]
+[Opening "King's Gambit"]
+[ECO "C30"]
+[Side "white"]
+[Tags "e4,open,gambit,sharp"]
+[Difficulty "3"]
+
+1. e4 e5 2. f4 { The King's Gambit: a pawn for rapid development and the open f-file. }
+2... exf4 { [%name Kieseritzky Gambit] }
+( 2... Bc5 { [%name Declined, 2...Bc5] The bishop stops White from castling short and eyes g1. }
+  3. Nf3 d6 4. c3 { Preparing d4 to blunt the c5 bishop and take the centre. }
+  4... Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Bd2 Bxd2+ 8. Nbxd2 { White has a big pawn centre for the slightly loose king. } )
+3. Nf3 { Stops ...Qh4+ and prepares to win back the f4 pawn. }
+3... g5 { Black protects the extra pawn. }
+( 3... d6 { [%name Fischer Defence] Black takes e5 away from White's knight before ...g5. }
+  4. d4 g5 5. h4 g4 6. Ng1 { The knight retreats, keeping f3 available for later. }
+  6... f3 7. gxf3 Be7 8. Be3 Bxh4+ 9. Kd2 { An unusual king walk: White's centre and development compensate. } )
+4. h4 { Undermining the g5 pawn before Black consolidates. }
+4... g4 5. Ne5 { The Kieseritzky: the knight jumps forward instead of retreating. }
+5... Nf6 6. d4 d6 7. Nd3 Nxe4 8. Bxf4 { White regains the pawn with active pieces. }
+8... Qe7 9. Qe2 { Neutralising the pin on the e-file. } *

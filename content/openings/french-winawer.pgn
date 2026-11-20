@@ -1,0 +1,19 @@
+[Event "French Winawer"]
+[Opening "French Defense: Winawer Variation"]
+[ECO "C15"]
+[Side "black"]
+[Tags "e4,french,sharp"]
+[Difficulty "3"]
+
+1. e4 e6 { The French: Black prepares ...d5 with a solid but slightly cramped position. }
+2. d4 d5 3. Nc3 Bb4 { The Winawer: pinning the knight increases the pressure on e4. }
+4. e5 { [%name Poisoned Pawn, 7.Qg4] }
+( 4. exd5 { [%name Exchange, 4.exd5] }
+  4... exd5 5. Bd3 Nc6 6. a3 Bxc3+ 7. bxc3 Nge7 { A symmetrical structure; Black is comfortable and White's doubled pawns limit ambitions. } )
+4... c5 { Striking at the base of White's pawn chain at once. }
+5. a3 Bxc3+ 6. bxc3 Ne7 { The knight keeps f5 open and avoids the e5 pawn's attack. }
+7. Qg4 { White attacks the g7 pawn that the dark-squared bishop used to protect. }
+( 7. Nf3 { [%name Positional, 7.Nf3] }
+  7... Nbc6 8. a4 Qa5 9. Qd2 Bd7 10. Be2 { Black keeps pressure on c3 and the queenside; White aims to use the bishop pair later. } )
+7... Qc7 { Counter-attacking c3 and e5 instead of defending g7. }
+8. Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 Nbc6 11. f4 { Mutual chances: Black's pieces swarm the centre while White has a passed h-pawn. } *

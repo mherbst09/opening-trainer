@@ -1,0 +1,18 @@
+[Event "Sicilian Najdorf"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+[ECO "B90"]
+[Side "black"]
+[Tags "e4,sicilian,sharp"]
+[Difficulty "3"]
+
+1. e4 c5 { The Sicilian: Black fights for d4 from the side and gets an unbalanced game. }
+2. Nf3 d6 3. d4 cxd4 { Trading a wing pawn for White's central d-pawn. }
+4. Nxd4 Nf6 5. Nc3 a6 { The Najdorf: ...a6 controls b5 and prepares ...e5 or ...b5. }
+6. Be3 { [%name English Attack] }
+( 6. Bg5 { [%name 6.Bg5 Main Line] }
+  6... e6 { Solid: the e-pawn blocks the c1-h6 diagonal and keeps ...e5 for later. }
+  7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 { Black's queenside counter-attack must be fast enough. } )
+( 6. Be2 { [%name Opocensky, 6.Be2] }
+  6... e5 7. Nb3 Be7 8. O-O O-O 9. Be3 Be6 { Black controls d5 and develops harmoniously; the d6 pawn is backward but well covered. } )
+6... e5 { Gaining space and kicking the d4 knight. }
+7. Nb3 Be6 8. f3 Be7 9. Qd2 O-O 10. O-O-O Nbd7 11. g4 b5 { Opposite-side castling: both sides race to attack the enemy king. } *
