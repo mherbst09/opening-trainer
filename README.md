@@ -11,6 +11,13 @@ their own data.
 - **49 built-in openings** (139 lines, ~935 quiz positions): 1.e4 and 1.d4 systems for White,
   main defences for Black, flank openings, and 15 well-known gambits (Danish, Englund, Latvian,
   Elephant, Evans, Smith-Morra, Budapest, Benko, Alien, Martian, …). See `CONTENT_REVIEW.md`.
+- **Game analysis** (tab *Analysis*, top left): load your games from Chess.com by username
+  (public API, no login) or paste any PGN. Stockfish 19 (lite, single-threaded WASM, in
+  `public/engine/`, GPL-3.0) checks every move in the browser and you get accuracy per player,
+  an estimated game rating, move ratings (Brilliant, Great, Best, Excellent, Good, Book,
+  Inaccuracy, Mistake, Miss, Blunder), an evaluation bar and graph, and the best move with its
+  line for every error. Accuracy uses the open Lichess formula; the game rating and move ratings
+  are approximations, not Chess.com's own numbers.
 - **Two tabs on the home screen:** *Openings* and *Gambits*. An opening goes to the Gambits tab
   when its `Tags` header contains `gambit` (also works for imported PGNs).
 - **Learn mode:** step through lines with forward/back, a variation picker, branch buttons
