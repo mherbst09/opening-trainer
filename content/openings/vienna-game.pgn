@@ -2,7 +2,7 @@
 [Opening "Vienna Game"]
 [ECO "C25"]
 [Side "white"]
-[Tags "e4,open,gambit"]
+[Tags "e4,open"]
 [Difficulty "2"]
 
 1. e4 e5 2. Nc3 { The Vienna: the knight supports a later f4 push while keeping e4 protected. }

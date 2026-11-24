@@ -8,8 +8,11 @@ their own data.
 
 ## Features
 
-- **34 built-in openings** (105 lines, ~700 quiz positions): 1.e4 and 1.d4 systems for White,
-  main defences for Black, and flank openings. See `CONTENT_REVIEW.md`.
+- **49 built-in openings** (139 lines, ~935 quiz positions): 1.e4 and 1.d4 systems for White,
+  main defences for Black, flank openings, and 15 well-known gambits (Danish, Englund, Latvian,
+  Elephant, Evans, Smith-Morra, Budapest, Benko, Alien, Martian, …). See `CONTENT_REVIEW.md`.
+- **Two tabs on the home screen:** *Openings* and *Gambits*. An opening goes to the Gambits tab
+  when its `Tags` header contains `gambit` (also works for imported PGNs).
 - **Learn mode:** step through lines with forward/back, a variation picker, branch buttons
   and short comments on the key ideas.
 - **Quiz modes:**
