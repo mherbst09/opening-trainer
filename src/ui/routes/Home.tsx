@@ -112,6 +112,7 @@ export function Home() {
               <div className="opening-name">{o.name}</div>
               <div className="opening-meta">
                 <span className={`side-dot ${o.side}`} aria-hidden /> {o.side === 'white' ? 'White' : 'Black'}{o.eco ? ` · ${o.eco}` : ''}
+                {o.origin && <> · <span className="origin" title="Invented / named by">{o.origin}</span></>}
                 {o.source === 'imported' && <span className="badge">Imported</span>}
               </div>
               <div className="progress-pills">

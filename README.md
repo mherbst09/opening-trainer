@@ -73,6 +73,7 @@ tests/                   Vitest unit tests (engine, content legality, merge, syn
    [Side "black"]                                      the colour you play
    [Tags "e4,sicilian,sharp"]                          comma separated, used by the filters
    [Difficulty "3"]                                    1–3
+   [Origin "Ruy López de Segura (1561)"]               optional: who invented / named it
    ```
 3. Moves in standard PGN. Put alternatives in `( … )` **directly after the move they replace**.
    Lines of 8–14 moves work best (the tests allow 6–16).
